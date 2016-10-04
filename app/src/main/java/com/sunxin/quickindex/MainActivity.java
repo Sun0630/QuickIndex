@@ -117,6 +117,7 @@ public class MainActivity extends Activity {
         // 虚拟数据
         friends.add(new Friend("伊尼戈-洛佩斯"));
         friends.add(new Friend("阿梅奥比"));
+        friends.add(new Friend("孙兴民"));
         friends.add(new Friend("伊布拉希莫维奇"));
         friends.add(new Friend("伊班"));
         friends.add(new Friend("梅西"));
