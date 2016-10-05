@@ -1,6 +1,6 @@
 # QuickIndex
 很常见的快速索引项目，能够通过右边的索引栏通过拼音的首字母快速定位
-
+![image](https:/github.com/Sun0630/QuickIndex/raw/master/qucikindex.gif)
 
 ##快速索引
 
